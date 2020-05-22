@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+.general{
+	width: 90%
+}
+.container-fluid{
+	margin: 10px 20px 10px 20px;
+	align-items: center;
+}
+
+.ilustracion{
+	background-color: gray;
+	text-align: center;
+	height: 350px;
+	padding: 10px;
+}
+
+.informacion{
+	background-color: lightgray;
+	text-align: center;
+	height: 600px;
+	padding: 10px;
+}
+
+
+.heading{
+	background-color: gray;
+	text-align: center;
+	padding: 15px;
+	height: 60px;
+}
+
+.cont{
+	background-color: lightgray;
+	text-align: center;
+	padding: 10px;
+	height: 300px;
+}
+
+.sidebar{
+	background-color: gray;
+	text-align: center;
+	padding: 100px;
+}
+
+.flat{
+	background-color: lightgray;
+	text-align: center;
+	padding: 10px;
+	height: 150px;
+}
+
+.galery{
+	background-color: lightgray;
+	text-align: center;
+	height: 300px;
+	padding: 10px;
+	margin: 3px;
+	align-content: center;
+}
+
+.middle{
+	background-color: lightgray;
+	text-align: center;
+	padding: 5px;
+}
